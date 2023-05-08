@@ -1,0 +1,56 @@
+.wrapper {
+    display: flex;
+}
+.stick {
+    height: 1200px;
+    width: 20px;
+    background: brown;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: 450px;
+}
+.flag {
+    width: 900px;
+    height: 600px;
+    box-shadow: 0px 0px 90px 1px #989;
+    background-color: white;
+    position: relative;
+    margin-right: auto;
+}
+.top {
+    height: 200px;
+    background: #FF9933;
+} 
+.middle {
+    height: 200px;
+    background: white;
+}
+.bottom {
+    height: 200px;
+    background: green;
+}
+.chakra {
+    position: relative;
+    margin-left: 350px;
+    margin-top: -22%;
+}
+.stairs1 {
+    height: 30px;
+    width: 150px;
+    margin-top: 65%;
+    margin-left: -9%;
+    background-color: black;
+}
+.stairs2 {
+    height: 40px;
+    width: 300px;
+    margin-left: -17%;
+    background-color: black;
+}
+.stairs3 {
+    height: 50px;
+    width: 450px;
+    margin-left: -25%;
+    background-color: black;
+}
