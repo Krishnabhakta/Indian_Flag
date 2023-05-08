@@ -1,2 +1,1 @@
-# Indian_Flag
-Indian Flag using HTML and CSS
+Indian Flag using HTMl and CSS
